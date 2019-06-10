@@ -32,18 +32,18 @@ albatross
 alligator
 alpaca
 amazon parrot
-american alligator
-american badger
-american beaver
-american bighorn sheep
-american bison
-american black bear
-american buffalo
-american crow
-american marten
-american racer
-american virginia opossum
-american woodcock
+alligator
+badger
+beaver
+bighorn sheep
+bison
+black bear
+buffalo
+crow
+marten
+racer
+virginia opossum
+woodcock
 anaconda
 andean goose
 angelfish
@@ -66,7 +66,7 @@ false vampire bat
 foreset tortoise
 lion
 openbill
-red fox
+fox
 water buffalo
 water dragon
 asiatic jackal
@@ -98,7 +98,7 @@ barnacle
 barracuda
 barrows goldeneye
 bat
-bat-eared fox
+bat-eafox
 bateleur eagle
 beagle
 bear
@@ -115,7 +115,7 @@ binturong
 bird
 birman
 bison
-black and white colobus
+black and colobus
 black bear
 black curlew
 black kite
@@ -128,7 +128,7 @@ black-backed magpie
 black-capped capuchin
 black-capped chickadee
 black-cheeked waxbill
-black-collared barbet
+black-collabarbet
 black-crowned crane
 black-crowned night heron
 black-eyed bulbul
@@ -218,8 +218,8 @@ california sea lion
 camel
 campo flicker
 canada goose
-canadian river otter
-canadian tiger swallowtail butterfly
+river otter
+tiger swallowtail butterfly
 cape barren goose
 cape clawless otter
 cape cobra
@@ -274,41 +274,41 @@ cockatoo
 cockroach
 cod
 coke's hartebeest
-collared lemming
-collared lizard
-collared peccary
+collalemming
+collalizard
+collapeccary
 collie
 colobus
 columbian rainbow boa
 comb duck
-common boubou shrike
-common brushtail possum
-common dolphin
-common duiker
-common eland
-common genet
-common goldeneye
-common green iguana
-common grenadier
-common langur
-common long-nosed armadillo
-common melba finch
-common mynah
-common nighthawk
-common palm civet
-common pheasant
-common raccoon
-common rhea
-common ringtail
-common seal
-common shelduck
-common turkey
-common wallaroo
-common waterbuck
-common wolf
-common wombat
-common zebra
-common zorro
+boubou shrike
+brushtail possum
+dolphin
+duiker
+eland
+genet
+goldeneye
+green iguana
+grenadier
+langur
+long-nosed armadillo
+melba finch
+mynah
+nighthawk
+palm civet
+pheasant
+raccoon
+rhea
+ringtail
+seal
+shelduck
+turkey
+wallaroo
+waterbuck
+wolf
+wombat
+zebra
+zorro
 constrictor
 cook's tree boa
 coot
@@ -397,7 +397,7 @@ eastern fox squirrel
 eastern grey kangaroo
 eastern indigo snake
 eastern quoll
-eastern white pelican
+eastern pelican
 echidna
 eel
 egret
@@ -417,11 +417,11 @@ emu
 badger
 beaver
 hoopoe
-red squirrel
+squirrel
 euro wallaby
 european badger
 european beaver
-european red squirrel
+european squirrel
 european shelduck
 european spoonbill
 european stork
@@ -455,7 +455,7 @@ francolin
 frigatebird
 frilled dragon
 frilled lizard
-fringe-eared oryx
+fringe-eaoryx
 frog
 frogmouth
 galago
@@ -521,9 +521,9 @@ great egret
 great horned owl
 great kiskadee
 great skua
-great white pelican
+great pelican
 greater adjutant stork
-greater blue-eared starling
+greater blue-eastarling
 greater flamingo
 greater kudu
 greater rhea
@@ -605,7 +605,7 @@ leopard
 mynah
 peacock
 porcupine
-red admiral
+admiral
 star tortoise
 tree pie
 indri
@@ -656,7 +656,7 @@ langur
 lappet-faced vulture
 lapwing
 large cormorant
-large-eared bushbaby
+large-eabushbaby
 lark
 laughing dove
 laughing kookaburra
@@ -668,10 +668,10 @@ legaan
 lemming
 lemur
 leopard
-lesser double-collared sunbird
-lesser flamingo
-lesser masked weaver
-lesser mouse lemur
+double-collasunbird
+flamingo
+masked weaver
+mouse lemur
 levaillant's barbet
 liger
 lilac-breasted roller
@@ -688,15 +688,15 @@ lizard
 llama
 lobster
 locust
-long-billed cockatoo
-long-billed corella
-long-crested hawk eagle
-long-finned pilot whale
-long-necked turtle
-long-nosed bandicoot
-long-tailed jaeger
-long-tailed skua
-long-tailed spotted cat
+cockatoo
+corella
+hawk eagle
+pilot whale
+turtle
+bandicoot
+jaeger
+skua
+spotted cat
 lorikeet
 loris
 lory
@@ -760,7 +760,7 @@ mouflon
 mountain duck
 mountain goat
 mountain lion
-mourning collared dove
+mourning colladove
 mouse
 mudskipper
 mule
@@ -782,7 +782,7 @@ nilgai
 nine-banded armadillo
 beaver
 porcupine
-red fox
+fox
 river otter
 northern elephant seal
 northern fur seal
@@ -905,38 +905,38 @@ ram
 rat
 rattlesnake
 raven
-red and blue macaw
-red brocket
-red deer
-red hartebeest
-red howler monkey
-red kangaroo
-red lava crab
-red meerkat
-red panda
-red phalarope
-red sheep
-red squirrel
-red-billed buffalo weaver
-red-billed hornbill
-red-billed toucan
-red-billed tropic bird
+and blue macaw
+brocket
+deer
+hartebeest
+howler monkey
+kangaroo
+lava crab
+meerkat
+panda
+phalarope
+sheep
+squirrel
+buffalo weaver
+hornbill
+toucan
+tropic bird
 red-breasted cockatoo
 red-breasted nuthatch
 red-capped cardinal
 red-cheeked cordon bleu
 red-headed woodpecker
 red-knobbed coot
-red-legged pademelon
-red-necked phalarope
-red-necked wallaby
-red-shouldered glossy starling
-red-tailed cockatoo
-red-tailed hawk
-red-tailed phascogale
-red-tailed wambenger
-red-winged blackbird
-red-winged hawk
+pademelon
+phalarope
+wallaby
+red-shouldeglossy starling
+cockatoo
+hawk
+phascogale
+wambenger
+blackbird
+hawk
 reedbuck
 reindeer
 rhea
@@ -946,10 +946,10 @@ rhinoceros
 richardson's ground squirrel
 ring dove
 ring-necked pheasant
-ring-tailed coatimundi
-ring-tailed gecko
-ring-tailed lemur
-ring-tailed possum
+coatimundi
+gecko
+lemur
+possum
 ringtail
 ringtail cat
 river wallaby
@@ -967,10 +967,10 @@ rottweiler
 royal tern
 ruff
 rufous tree pie
-rufous-collared sparrow
+rufous-collasparrow
 russian dragonfly
 sable antelope
-sacred ibis
+sacibis
 saddle-billed stork
 sage grouse
 sage hen
@@ -1044,21 +1044,21 @@ sociable weaver
 sockeye salmon
 somali
 south hedgehog
-south american meadowlark
-south american puma
-south american sea lion
-southern black-backed gull
-southern boubou
-southern brown bandicoot
-southern elephant seal
-southern ground hornbill
-southern hairy-nosed wombat
-southern lapwing
-southern right whale
-southern screamer
-southern sea lion
-southern tamandua
-southern white-crowned shrike
+south meadowlark
+south puma
+south sea lion
+black-backed gull
+boubou
+brown bandicoot
+elephant seal
+ground hornbill
+hairy-nosed wombat
+lapwing
+right whale
+screamer
+sea lion
+tamandua
+white-crowned shrike
 sparrow
 spectacled caiman
 spider
@@ -1168,7 +1168,7 @@ vervet monkey
 vicuna
 vine snake
 violet-crested turaco
-violet-eared waxbill
+violet-eawaxbill
 viper
 vulture
 wagtail
@@ -1200,9 +1200,9 @@ western spotted skunk
 whale
 whip-tailed wallaby
 whippet
-white rhinoceros
-white spoonbill
-white stork
+rhinoceros
+spoonbill
+stork
 white-bellied sea eagle
 white-browed owl
 white-browed sparrow weaver
