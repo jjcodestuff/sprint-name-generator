@@ -419,13 +419,13 @@ beaver
 hoopoe
 squirrel
 euro wallaby
-european badger
-european beaver
-european squirrel
-european shelduck
-european spoonbill
-european stork
-european wild cat
+badger
+beaver
+squirrel
+shelduck
+spoonbill
+stork
+wild cat
 fairy penguin
 falcon
 fat-tailed dunnart
